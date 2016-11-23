@@ -6,7 +6,7 @@ This kit can be purchased through the [Losant IoT Developer Store](https://store
 
 This repository contains the source code for the various workshops described in the [kit instructions](https://docs.losant.com/getting-started/losant-iot-dev-kits/builder-kit/).
 
-<img src="https://docs.losant.com/images/getting-started/losant-iot-dev-kits/builder-kit/builder-kit.jpg" style="width: 640px;" width="640">
+<img src="https://docs.losant.com/images/getting-started/losant-iot-dev-kits/lcd-kit/weather-station.jpg" style="width: 640px;" width="640">
 
 Copyright (c) 2016 Losant. All rights reserved. <br />
 https://www.losant.com
